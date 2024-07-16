@@ -5,10 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A passionate Frontend developer And Data Sciencetest</h3>
-<div align="center">
-<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="vaibhav725sharma" width="800" height="auto" />
-  
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav725sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav725sharma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vaibhavsha404" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavsha404?logo=twitter&style=for-the-badge" alt="vaibhavsha404" /></a> </p>
