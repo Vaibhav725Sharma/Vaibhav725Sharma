@@ -20,7 +20,7 @@
 
 - 📝 I regularly post on [linkedin.com/in/vsharma4038](linkedin.com/in/vsharma4038).
 
-- ⚡ Fun fact [I think I am funny](I think I am funny).
+- ⚡ Fun fact : I think I am funny.
 
 - 📫 How to reach me **vaibhav.sharma7252@gmail.com**.
 
