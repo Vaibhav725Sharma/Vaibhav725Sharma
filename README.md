@@ -4,7 +4,7 @@
     </div>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A passionate Frontend developer And Data Sciencetest</h3>
+<h3 align="center">A passionate Frontend developer And Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav725sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav725sharma" /> </p>
 
