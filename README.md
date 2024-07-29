@@ -120,6 +120,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav725sharma&show_icons=true&locale=en&layout=compact" alt="vaibhav725sharma" width="350" height="auto"/></p>
-
-<p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav725sharma&" alt="vaibhav725sharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav725sharma&show_icons=true&locale=en&layout=compact" alt="vaibhav725sharma" width="350" height="auto"/></p><p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav725sharma&" alt="vaibhav725sharma" /></p>
