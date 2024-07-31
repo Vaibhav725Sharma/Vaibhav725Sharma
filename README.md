@@ -123,5 +123,5 @@
       
 </p> </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav725sharma&show_icons=true&locale=en&layout=compact" alt="vaibhav725sharma" width="450" height="auto"/></p>
-<img aligh="right" alter="Laptop Gif" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ1bTQyaWQxZWI3MWt3b3ZjbHU1bjdoMzRoNzVzMXE4OGRtdTlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav725sharma&show_icons=true&locale=en&layout=compact" alt="vaibhav725sharma" width="350" height="auto"/></p>
+<img aligh="right" alter="Laptop Gif" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ1bTQyaWQxZWI3MWt3b3ZjbHU1bjdoMzRoNzVzMXE4OGRtdTlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif"/>
