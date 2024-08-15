@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend development and Deeplearning**.
 
-- 👯 I’m looking to collaborate on [ML Project](https://internship.ineuron.ai/project/invite/Travel-Package-Purchase/54105582-c2d3-4192-a2a6-8be73b68d4c8).
+- 👯 I’m looking to collaborate on ML Project.
 
 - 🤝 I’m looking for help with referral letter🥹.
 
