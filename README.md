@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **vaibhav.sharma7252@gmail.com**.
 
-- 👨‍💻 All of my projects are available at **<a href="https://portfolio-54xx.onrender.com/">Portfolio Website</a>**.
+- 👨‍💻 To visit my Portfolio Website  **<a href="https://portfolio-54xx.onrender.com/">Click here</a>**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
