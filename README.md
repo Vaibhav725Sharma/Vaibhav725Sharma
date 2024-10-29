@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on ML Project.
 
-- 🤝 I’m looking for help with referral letter🥹.
+-  I’m looking for help with referral letter🤝.
 
 - 📝 I regularly post on [linkedin.com/in/vsharma4038](linkedin.com/in/vsharma4038).
 
